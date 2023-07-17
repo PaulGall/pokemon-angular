@@ -1,0 +1,12 @@
+.example-card {
+    max-width: 200px;
+    margin: 20px;
+  }
+  .mat-mdc-card-title title{
+    text-align: center;
+}
+  
+  .example-header-image {
+    background-image: url('https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png');
+    background-size: cover;
+  }
